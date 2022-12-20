@@ -1,0 +1,15 @@
+C:\Users\attic\Desktop\Assessment1DanP-master\bin\Debug\net6.0\Assessment1DanP.exe
+C:\Users\attic\Desktop\Assessment1DanP-master\bin\Debug\net6.0\Assessment1DanP.deps.json
+C:\Users\attic\Desktop\Assessment1DanP-master\bin\Debug\net6.0\Assessment1DanP.runtimeconfig.json
+C:\Users\attic\Desktop\Assessment1DanP-master\bin\Debug\net6.0\Assessment1DanP.dll
+C:\Users\attic\Desktop\Assessment1DanP-master\bin\Debug\net6.0\Assessment1DanP.pdb
+C:\Users\attic\Desktop\Assessment1DanP-master\obj\Debug\net6.0\Assessment1DanP.csproj.AssemblyReference.cache
+C:\Users\attic\Desktop\Assessment1DanP-master\obj\Debug\net6.0\Assessment1DanP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\attic\Desktop\Assessment1DanP-master\obj\Debug\net6.0\Assessment1DanP.AssemblyInfoInputs.cache
+C:\Users\attic\Desktop\Assessment1DanP-master\obj\Debug\net6.0\Assessment1DanP.AssemblyInfo.cs
+C:\Users\attic\Desktop\Assessment1DanP-master\obj\Debug\net6.0\Assessment1DanP.csproj.CoreCompileInputs.cache
+C:\Users\attic\Desktop\Assessment1DanP-master\obj\Debug\net6.0\Assessment1DanP.dll
+C:\Users\attic\Desktop\Assessment1DanP-master\obj\Debug\net6.0\refint\Assessment1DanP.dll
+C:\Users\attic\Desktop\Assessment1DanP-master\obj\Debug\net6.0\Assessment1DanP.pdb
+C:\Users\attic\Desktop\Assessment1DanP-master\obj\Debug\net6.0\Assessment1DanP.genruntimeconfig.cache
+C:\Users\attic\Desktop\Assessment1DanP-master\obj\Debug\net6.0\ref\Assessment1DanP.dll
